@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(40 42 54);
+    color: antiquewhite;
+}
+
+h1 {
+    color: rgb(98 114 164);
+}
+
+p {
+    text-align: justify;
+    font-size: small;
+}
+
+h2, h3 {
+    
+    color: rgb(189 147 249);
+}
