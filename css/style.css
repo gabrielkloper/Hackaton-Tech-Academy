@@ -16,3 +16,25 @@ h2, h3 {
     
     color: rgb(189 147 249);
 }
+
+
+
+form {
+    
+    width: 50vh;
+    display: flex;
+    align-items: right;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+input {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+textarea {
+    padding: 50px;
+}
